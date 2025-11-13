@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: azure;
+    text-align: center;
+}
+
+p {
+    color: azure;
+    font-family: verdana;
+  font-size: 20px;
+}
